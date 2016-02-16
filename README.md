@@ -1,2 +1,2 @@
 # hello-world
-hello world repo for CH practice
+Hey - trying to figure out this new github land with my pals @robertmhudson and @lmbarrier. 
